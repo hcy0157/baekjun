@@ -1,4 +1,4 @@
 ﻿  baek1157.c
-  baek1978.c
-  코드를 생성하고 있습니다...
+C:\baekjun_study\baekjun_study\baek1157.c(12,21): warning C4047: '!=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\baekjun_study\baekjun_study\baek1157.c(14,10): warning C4013: 'toupper'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
   baekjun_study.vcxproj -> C:\baekjun_study\x64\Debug\baekjun_study.exe
